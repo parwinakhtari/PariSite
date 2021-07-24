@@ -1,5 +1,5 @@
 # Responsive-Animated-Website
-### Made in React-js
+### Made with React-js
 #### Completely responsive 
 
 Created with CodeSandbox
